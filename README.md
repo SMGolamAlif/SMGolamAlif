@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SMGolamAlif
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning sass
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on nothing
 - 📫 Reach me - (https://www.facebook.com/SardarGolamAlif)
 
